@@ -1,2 +1,2 @@
-# apimou.githube.io
+# apimou.github.io
 manuel utilisateur
